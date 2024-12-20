@@ -73,6 +73,7 @@ pip install -r requirements.txt
 
 
 ## **Top Contributors**
+This project was entirely developed by:
 
 <a href="https://github.com/ianedmosz/Mosue-Head-Tracker/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ianedmosz/Mosue-Head-Tracker" alt="Contributors" />

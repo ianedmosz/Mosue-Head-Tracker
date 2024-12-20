@@ -74,11 +74,14 @@ pip install -r requirements.txt
 
 ## **Top Contributors**
 
-<a href="https://github.com/ianedmosz/Mouse-Head-Tracker/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ianedmosz/Mouse-Head-Tracker" alt="Contributors" />
+This project was entirely developed by:
+
+<a href="https://github.com/ianedmosz">
+  <img src="https://avatars.githubusercontent.com/u/ianedmosz?v=4" width="100" height="100" alt="Ian Moreno"/>
 </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 ## **Meta**

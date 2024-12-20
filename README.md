@@ -77,10 +77,11 @@ pip install -r requirements.txt
 This project was entirely developed by:
 
 <a href="https://github.com/ianedmosz">
-  <img src="https://avatars.githubusercontent.com/u/ianedmosz?v=4" width="100" height="100" alt="Ian Moreno"/>
+  <img src="https://avatars.githubusercontent.com/u/ianedmosz?v=4" alt="Ian Moreno" style="border-radius: 50%; width: 150px; height: 150px;"/>
 </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+>
 
 
 

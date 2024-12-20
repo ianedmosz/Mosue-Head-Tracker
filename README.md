@@ -2,28 +2,37 @@
 > Hands-free mouse control using head movements and webcam input.
 
 [![Python Version](https://img.shields.io/badge/python-3.8-blue)](https://www.python.org/downloads/release/python-3810/)
+[![Watch the video](https://img.shields.io/badge/YouTube-Click%20to%20Watch-red)](https://youtu.be/your-video-link)
 
 This project allows users to control the mouse pointer using head movements tracked via a webcam. It leverages **MediaPipe's Face Mesh** for facial landmark detection and maps these movements to cursor control.
-
-[![Watch the video](https://img.shields.io/badge/YouTube-Click%20to%20Watch-red)](https://youtu.be/your-video-link)
 
 ---
 
 ## **Features**
-- Tracks head motion in real time using a webcam.
-- Accurate mouse pointer control with adjustable sensitivity.
-- Simple setup and cross-platform compatibility.
+- Tracks head motion in real-time using a webcam.
+- Uses **MediaPipe Face Mesh** for precise landmark detection.
+- Maps head motion to mouse pointer movements with adjustable sensitivity.
+- Easy to use, with minimal setup and cross-platform compatibility.
 
 ---
 
-## **Installation**
+## **Requirements**
+
+- Python 3.8
+- OpenCV
+- MediaPipe
+- PyAutoGUI
+
+## **Instalation**
 
 ### OS X & Linux:
+
 ```bash
 conda create -n head_mouse python=3.8
 conda activate head_mouse
 pip install -r requirements.txt
 ```
+
 
 ### Windows: 
 
@@ -43,10 +52,33 @@ pip install -r requirements.txt
 - Move your head to control the mouse pointer.
 - Press **'q'** to quit the application.
 
+3. **Adjust sensitivity:**
+   Modify `x_sensitivity_factor` and `y_sensitivity_factor` in the script for your preferences:
+   ```python
+   x_sensitivity_factor = 2.5
+   y_sensitivity_factor = 3
 
-4. **Adjust sensitivity: Modify x_sensitivity_factor and y_sensitivity_factor in the script for your preferences:**
-   - x_sensitivity_factor = 2.5.
-   - y_sensitivity_factor = 3.
+
+## **Limitations**
+- Requires a well-lit environment for accurate face detection.
+- Webcam quality and frame rate can affect tracking performance.
+- Designed primarily for single-user use; multi-face tracking is not supported.
+
+
+## **Future Improvements**
+- Add multi-face tracking for group applications.
+- Improve sensitivity settings to adapt dynamically to user movements.
+- Add voice commands for additional controls.
+
+
+
+## **Top Contributors**
+
+<a href="https://github.com/ianedmosz/Mouse-Head-Tracker/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ianedmosz/Mouse-Head-Tracker" alt="Contributors" />
+</a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## **Meta**

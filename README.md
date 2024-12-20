@@ -43,15 +43,15 @@ pip install -r requirements.txt
    
 
 4. **Adjust sensitivity: Modify x_sensitivity_factor and y_sensitivity_factor in the script for your preferences:**
- x_sensitivity_factor = 2.5
-  y_sensitivity_factor = 3
+   x_sensitivity_factor = 2.5
+   y_sensitivity_factor = 3
 
 
 ## **Meta**
 
 Created and maintained by **Ian E. Moreno-Salazar**.
 
-- **Email**: [ian.moreno@tec.mx](mailto:ian.moreno@tec.mx)
+- **Email**: [ian.moreno@tec.mx](mailto:ianeduardomoreno98@gmail.com )
 - **GitHub**: [@ianedmosz](https://github.com/ianedmosz)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

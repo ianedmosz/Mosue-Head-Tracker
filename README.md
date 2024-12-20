@@ -74,14 +74,11 @@ pip install -r requirements.txt
 
 ## **Top Contributors**
 
-This project was entirely developed by:
-
-<a href="https://github.com/ianedmosz">
-  <img src="https://avatars.githubusercontent.com/u/ianedmosz?v=4" alt="Ian Moreno" style="border-radius: 50%; width: 150px; height: 150px;"/>
+<a href="https://github.com/ianedmosz/Mosue-Head-Tracker/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ianedmosz/Mosue-Head-Tracker" alt="Contributors" />
 </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
->
 
 
 

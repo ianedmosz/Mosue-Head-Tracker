@@ -87,7 +87,7 @@ This project was entirely developed by:
 
 Created and maintained by **Ian E. Moreno-Salazar**.
 
-- **Email**: [ian.moreno@tec.mx](mailto:ianeduardomoreno98@gmail.com )
+- **Email**: [ianeduardomoreno98@gmail.com](mailto:ianeduardomoreno98@gmail.com )
 - **GitHub**: [@ianedmosz](https://github.com/ianedmosz)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
